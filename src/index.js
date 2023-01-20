@@ -3,11 +3,17 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Navbar from './Components/Navbar';
+import MobileNav from './Components/MobileNav';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <div className='md:flex'>
+      <MobileNav />
+      <Navbar className="w-1/5"/>
+      <App className="w-4/5" />
+    </div>
   </React.StrictMode>
 );
 
