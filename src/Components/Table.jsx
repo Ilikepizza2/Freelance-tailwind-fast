@@ -36,9 +36,7 @@ const Table = () => {
               <th scope="col" class="px-6 py-3 text-gray-500 font-normal">
                 Users on plan
               </th>
-              <th scope="col" class="px-6 py-3 text-gray-500 font-normal">
-                
-              </th>
+              <th scope="col" class="px-6 py-3 text-gray-500 font-normal"></th>
             </tr>
           </thead>
           <tbody>
@@ -66,7 +64,7 @@ const Table = () => {
               <td class="px-6 py-4">
                 <img src="/Badge.png" alt="badge" />
               </td>
-              <td class="px-6 py-4">
+              <td>
                 <img src="/Avatar group1.png" alt="users" />
               </td>
               <td class="flex items-center px-6 py-4 space-x-3">
@@ -95,8 +93,11 @@ const Table = () => {
               <td class="px-6 py-4">USD $10.00</td>
               <td class="px-6 py-4">Nov 1, 2022</td>
               <td class="px-6 py-4">
-              <img src="/Badge.png" alt="badge" /></td>
-              <td class="px-6 py-4"><img src="/Avatar group2.png" alt="users" /></td>
+                <img src="/Badge.png" alt="badge" />
+              </td>
+              <td>
+                <img src="/Avatar group2.png" alt="users" />
+              </td>
               <td class="flex items-center px-6 py-4 space-x-3">
                 <img src="/Icon.png" alt="copy" />
               </td>
@@ -123,8 +124,11 @@ const Table = () => {
               <td class="px-6 py-4">USD $10.00</td>
               <td class="px-6 py-4">Oct 1, 2022</td>
               <td class="px-6 py-4">
-              <img src="/Badge.png" alt="badge" /></td>
-              <td class="px-6 py-4"><img src="/Avatar group3.png" alt="users" /></td>
+                <img src="/Badge.png" alt="badge" />
+              </td>
+              <td>
+                <img src="/Avatar group3.png" alt="users" />
+              </td>
               <td class="flex items-center px-6 py-4 space-x-3">
                 <img src="/Icon.png" alt="copy" />
               </td>
@@ -150,8 +154,12 @@ const Table = () => {
               </th>
               <td class="px-6 py-4">USD $10.00</td>
               <td class="px-6 py-4">Sep 1, 2022</td>
-              <td class="px-6 py-4"><img src="/Badge.png" alt="badge" /></td>
-              <td class="px-6 py-4"><img src="/Avatar group4.png" alt="users" /></td>
+              <td class="px-6 py-4">
+                <img src="/Badge.png" alt="badge" />
+              </td>
+              <td>
+                <img src="/Avatar group4.png" alt="users" />
+              </td>
               <td class="flex items-center px-6 py-4 space-x-3">
                 <img src="/Icon.png" alt="copy" />
               </td>
@@ -177,8 +185,12 @@ const Table = () => {
               </th>
               <td class="px-6 py-4">USD $10.00</td>
               <td class="px-6 py-4">Aug 1, 2022</td>
-              <td class="px-6 py-4"><img src="/Badge.png" alt="badge" /></td>
-              <td class="px-6 py-4"><img src="/Avatar group5.png" alt="users" /></td>
+              <td class="px-6 py-4">
+                <img src="/Badge.png" alt="badge" />
+              </td>
+              <td>
+                <img src="/Avatar group5.png" alt="users" />
+              </td>
               <td class="flex items-center px-6 py-4 space-x-3">
                 <img src="/Icon.png" alt="copy" />
               </td>
@@ -204,8 +216,12 @@ const Table = () => {
               </th>
               <td class="px-6 py-4">USD $10.00</td>
               <td class="px-6 py-4">jul 1, 2022</td>
-              <td class="px-6 py-4"><img src="/Badge.png" alt="badge" /></td>
-              <td class="px-6 py-4"><img src="/Avatar group6.png" alt="users" /></td>
+              <td class="px-6 py-4">
+                <img src="/Badge.png" alt="badge" />
+              </td>
+              <td>
+                <img src="/Avatar group6.png" alt="users" />
+              </td>
               <td class="flex items-center px-6 py-4 space-x-3">
                 <img src="/Icon.png" alt="copy" />
               </td>
@@ -231,8 +247,12 @@ const Table = () => {
               </th>
               <td class="px-6 py-4">USD $10.00</td>
               <td class="px-6 py-4">Jun 1, 2022</td>
-              <td class="px-6 py-4"><img src="/Badge.png" alt="badge" /></td>
-              <td class="px-6 py-4"><img src="/Avatar group7.png" alt="users" /></td>
+              <td class="px-6 py-4">
+                <img src="/Badge.png" alt="badge" />
+              </td>
+              <td>
+                <img src="/Avatar group7.png" alt="users" />
+              </td>
               <td class="flex items-center px-6 py-4 space-x-3">
                 <img src="/Icon.png" alt="copy" />
               </td>
